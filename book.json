@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "downloadpdf"
+    ],
+    "pluginsConfig": {
+        "download-pdf": {
+            "base": "pdf",
+            "label": "Download PDF",
+            "multilingual": true
+        },
+        "downloadpdf": {
+            "base": "https://www.gitbook.com/download/pdf/zhaoda/webpack-handbook",
+            "label": "Download PDF",
+            "multilingual": true
+        }
+    }
+}
