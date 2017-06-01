@@ -7,4 +7,4 @@
  * [CI手册](http://codeigniter.org.cn/user_guide/)
  
  
-可访问地址：[阅读地址](https://githen.gitbooks.io/dev_book/content/)
+可访问地址：[点击阅读](https://githen.gitbooks.io/dev_book/content/)
